@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 159, 134);
+}
+
+img {
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.link a {
+    margin: 25px 20px;
+}
